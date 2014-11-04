@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Conference report: Australasian business ethics network,(ABEN) Auckland, Dec 2-3"
-date:   2-3 December 2011
+date:   3 December 2011
 author: Cecile Rozuel and Michelle Greenwood
 categories: australian-ethics
 ---
